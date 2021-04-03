@@ -1,0 +1,16 @@
+[
+  {
+    "modid": "projecteinfo",
+    "name": "ProjectE Info",
+    "description": "Integrates ProjectE with Ingame Info XML to display EMC value.",
+    "version": "${version}",
+    "mcversion": "${mcversion}",
+    "url": "",
+    "updateUrl": "",
+    "authorList": ["EmberQuill"],
+    "credits": "",
+    "logoFile": "",
+    "screenshots": [],
+    "dependencies": []
+  }
+]
